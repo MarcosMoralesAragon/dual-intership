@@ -1,2 +1,2 @@
 # dual-intership
-![a](/Angular.png)
+![a](/Angular.png) ![b](/Angular.png)
