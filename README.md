@@ -1,2 +1,2 @@
 # dual-intership
-[](Angular.jpg)
+[a](Angular.jpg)
