@@ -53,4 +53,4 @@ Esta tabla vale tanto como para el front y back. En el código
 
 ## Mapa visual
 
-<img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/Esquema.png" width="300" />
+<img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/Esquema.png" width="1000" />
