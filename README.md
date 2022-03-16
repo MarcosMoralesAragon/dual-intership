@@ -1,1 +1,2 @@
 # dual-intership
+[](Angular.jpg)
