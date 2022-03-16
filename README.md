@@ -2,6 +2,7 @@
 ## Empresa
 
 <img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/Dekra.jpg" width="200" />
+
 > Dekra digital
 
 ## Tecnologías
