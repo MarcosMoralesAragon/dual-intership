@@ -11,6 +11,7 @@
 El proyecto está compuesto de 2 partes:
 
 -> [Front : Diseñado en Angular](https://github.com/MarcosMoralesAragon/portal-gestion) <img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/Angular.png" width="50" />
+
 -> [Back : Diseñado en Java + Springboot](https://github.com/MarcosMoralesAragon/apirestjava) <img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/spring.png" width="50" /><img src= "https://github.com/MarcosMoralesAragon/dual-intership/blob/main/Javalogo.jpg" width="50" />
 
 Ambos proyectos tienen sus enlaces propios en GitHub. Aunque para una descripción detallada del proyecto y su funcionamiento lea este repositorio.
